@@ -13,7 +13,8 @@ This bash script automates the process of pushing code to a GitHub repository. I
 cd <repository-directory>
 
 3. **Run the bash script by executing the following command:**
-   bash linda.sh (Rename this appropraitely!)
+  ```bash linda.sh  
+  (Rename this appropraitely!)
 
 4. **The script will prompt you to enter a commit message. Provide a descriptive message summarizing your changes.
 Next, it will ask for the branch name where you want to push your changes. If the branch already exists, it will proceed with pushing the code to that branch. If not, it will create a new branch and push the code to it.**
