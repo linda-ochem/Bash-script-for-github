@@ -10,7 +10,8 @@ This bash script automates the process of pushing code to a GitHub repository. I
    ```bash
    git clone <repository-url>
 2. **Navigate to the directory containing the bash script.**
-cd <repository-directory>
+   ```bash
+   cd <repository-directory>
 
 3. **Run the bash script by executing the following command:**
 
