@@ -14,10 +14,10 @@ cd <repository-directory>
 
 3. **Run the bash script by executing the following command:**
 
-  ```bash 
-  bash linda.sh 
+   ```bash 
+   bash linda.sh 
 
-4. **The script will prompt you to enter a commit message. Provide a descriptive message summarizing your changes.
-Next, it will ask for the branch name where you want to push your changes. If the branch already exists, it will proceed with pushing the code to that branch. If not, it will create a new branch and push the code to it.
+4. **The script will prompt you to enter a commit message. Provide a descriptive message summarizing your changes.**
+  **Next, it will ask for the branch name where you want to push your changes. If the branch already exists, it    will proceed with pushing the code to that branch. If not, it will create a new branch and push the code to it.**
 
 5. **Once the script completes execution, your code will be successfully pushed to the specified branch on GitHub.**
